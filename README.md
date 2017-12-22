@@ -8,4 +8,4 @@
 
 ![picture](/home/hackerman/Documents/Git Repositories/Border-waiting-times---Time-Series-Forecasting-with-LSTM//San_Ysidro_prediction_300_hour_50_epochs.png)
 
-![alt text](/home/hackerman/Documents/Git Repositories/Border-waiting-times---Time-Series-Forecasting-with-LSTM//San_Ysidro_prediction_300_hour_50_epochs.png)
+![alt text](/home/hackerman/Documents/Git Repositories/Border-waiting-times---Time-Series-Forecasting-with-LSTM/San_Ysidro_prediction_300_hour_50_epochs.png)
